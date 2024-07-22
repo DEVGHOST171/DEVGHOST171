@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome e DEVGHOST171!<br><br>👨🏽‍💻 Dev Júnior .<br>👨🏽‍💻Dev FiveM.</h2>
+<h2 align="left">Olá 👋! Meu nome e DEVGHOST171!<br><br>👨🏽‍💻 Dev Júnior.<br>👨🏽‍💻Dev FiveM.</h2>
 
 ###
 
